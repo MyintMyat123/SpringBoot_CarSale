@@ -1,0 +1,33 @@
+.info{
+	color: #176B87;
+	font-size: 1rem;
+}
+
+.b1{
+	  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.aboutus{
+		  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+  margin-top: 80px;
+}
+
+.bg{
+  background-image: url("/images/Home.jpg");
+  /* Center and scale the image nicely */
+  background-position: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover 
+}
+
+.main {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+  height: 80vh; /* Center vertically */
+}

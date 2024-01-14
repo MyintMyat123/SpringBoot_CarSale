@@ -1,0 +1,51 @@
+  body {
+    background-color: #e8f5ff;
+    overflow: auto;
+}
+
+
+  .profile img {
+    width: 57px;
+    height: 52px; /* Set the width of the profile picture */ /* Set the height of the profile picture */
+    border-radius: 50%;
+    
+     /* Create a circular border */
+
+  }
+  
+    .navbar {
+	height: 75px;
+	display: flex;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  
+  
+  
+  .profile:hover {
+	  text-decoration: none;
+	  color: #fff;
+
+  }
+  
+  /* Style the user's name */
+  .profile a {
+    color: #fff; /* Set font color for the user's name */
+    text-decoration: none; /* Remove underlines from the user's name */
+     /* Add some spacing between the picture and the name */
+  }
+  
+  
+  .navbar a.link {
+  padding: 27px 20px;
+
+}
+
+.c1{
+	width: 100%
+}
+
+
